@@ -32,8 +32,6 @@ proyecto-apache/
 
 \### Dockerfile
 
-\- \*\*Imagen base\*\*: httpd:latest
-
 \- \*\*Función\*\*: Copia contenido HTML personalizado y define volumen persistente
 
 \- \*\*Volumen\*\*: /usr/local/apache2/htdocs
